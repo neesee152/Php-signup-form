@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 $host = "sql201.infinityfree.com";
 $dbname = "if0_41571477_studentform";
 $username = "if0_41571477";
-$password = "Montefiore38$$";
+$password = "Montefiore38";
 
 $conn = new mysqli($host, $username, $password, $dbname);
 
